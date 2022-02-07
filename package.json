@@ -1,0 +1,27 @@
+{
+  "name": "video-streamer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shubhamkumarjs/video-streamer.git"
+  },
+  "keywords": [
+    "video",
+    "streaming"
+  ],
+  "author": "Shubham Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shubhamkumarjs/video-streamer/issues"
+  },
+  "homepage": "https://github.com/shubhamkumarjs/video-streamer#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2"
+  }
+}
